@@ -1,7 +1,7 @@
 [![Masterhead](https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif)]
 <h1 align="center">Hi 👋, I'm Imalka Udawaththa</h1>
 <h3 align="center">A passionate Software Developer undergraduate from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fchipp%2Fcollections%2F572323-coding-gifs&psig=AOvVaw1R25rntP2DGyJ-IE0mxK2V&ust=1704793109751000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPj_3bK_zYMDFQAAAAAdAAAAABAG">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3587000-Coding/attachments/9907911?mode=media">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imalkaud&label=Profile%20views&color=0e75b6&style=flat" alt="imalkaud" /> </p>
 

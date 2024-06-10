@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Developer undergraduate from Sri Lanka</h3>
 <img align="right" alt="Coding" width ="200"  src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imalkaud&label=Profile%20views&color=0e75b6&style=flat" alt="imalkaud" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imalkaud&label=Profile%20views&color=0e75b6&style=flat" alt="imalkaud" height="400" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imalkaud" alt="imalkaud" /></a> </p>
 

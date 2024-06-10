@@ -1,9 +1,9 @@
-![Masterhead](https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif width="400")
+![Masterhead](https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif)
 <h1 align="center">Hi 👋, I'm Imalka Udawaththa</h1>
 <h3 align="center">A passionate Software Developer undergraduate from Sri Lanka</h3>
 <img align="right" alt="Coding" width ="200"  src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imalkaud&label=Profile%20views&color=0e75b6&style=flat" alt="imalkaud"  /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=imalkaud&label=Profile%20views&color=0e75b6&style=flat" alt="imalkaud"  /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imalkaud" alt="imalkaud" /></a> </p>
 

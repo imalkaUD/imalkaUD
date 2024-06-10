@@ -1,4 +1,4 @@
-![Masterhead](https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif)
+![Masterhead](https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif width="400")
 <h1 align="center">Hi 👋, I'm Imalka Udawaththa</h1>
 <h3 align="center">A passionate Software Developer undergraduate from Sri Lanka</h3>
 <img align="right" alt="Coding" width ="200"  src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif">

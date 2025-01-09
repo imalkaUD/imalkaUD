@@ -1,7 +1,7 @@
 ![Masterhead width = "2000"](https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif)
 <h1 align="center">Hi 👋, I'm Imalka Udawaththa</h1>
 <h3 align="center">A passionate Software Developer undergraduate from Sri Lanka</h3>
-<img align="right" alt="Coding" width ="200"  src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif">
+<img align="right" alt="Coding" width ="200" length ="200" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imalkaud&label=Profile%20views&color=0e75b6&style=flat" alt="imalkaud"  /> </p><br>
 

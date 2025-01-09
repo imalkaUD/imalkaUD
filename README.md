@@ -4,7 +4,7 @@
         width="10000" 
         height="400"
         style="display: block; margin: 0 auto;">
-<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="40" />, I'm Imalka Udawaththa</h1>
+<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30" />, I'm Imalka Udawaththa</h1>
 <h3 align="center">A passionate Software Developer undergraduate from Sri Lanka</h3>
 <img align="right" alt="Coding" width ="200" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif">
 

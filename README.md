@@ -9,7 +9,8 @@
   <span style="color:#ff4da6;">Imalka Udawaththa</span>
 </h1>
 <h2 align="center" style="color: #ffb6c1 !important;">A passionate Frontend Developer & UI/UX Enthusiast from Sri Lanka</h2>
-</br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
 🎨 I’m currently diving deep into Frontend Development, UI/UX Design, and Design Systems
 
@@ -66,6 +67,7 @@
   </a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -180,9 +182,10 @@
 
 <br/>
 
-<img align="center" 
+<img align="left" 
      src="https://github-readme-streak-stats.herokuapp.com/?user=imalkaud&theme=dark&ring=ff4da6&fire=ff66b2&currStreakNum=ff66b2&sideNums=ff66b2&background=0d1117" 
      alt="imalkaud" />
 
-
+<img align="right"
+        src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e012b52a-b326-4c70-962f-91ee5e1c951f" width="300">
 

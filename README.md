@@ -66,7 +66,7 @@
   </a>
 </p>
 
-</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
@@ -185,4 +185,4 @@
      alt="imalkaud" />
 
 
-![activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=imalkaud&theme=react-dark&color=ff4da6)
+

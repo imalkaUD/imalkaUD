@@ -8,7 +8,7 @@
   Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30" />, I'm 
   <span style="color:#ff4da6;">Imalka Udawaththa</span>
 </h1>
-<h2 align="center">A passionate Frontend Developer & UI/UX Enthusiast from Sri Lanka</h2>
+<h2 align="center" style="color: #ffb6c1 !important;">A passionate Frontend Developer & UI/UX Enthusiast from Sri Lanka</h2>
 </br>
 
 🎨 I’m currently diving deep into Frontend Development, UI/UX Design, and Design Systems
@@ -25,15 +25,46 @@
 </br>
 <img align="right" alt="Coding" width ="200" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imalkaud&label=Profile%20views&color=0e75b6&style=flat" alt="imalkaud"  /> </p><br>
+<p align="left" style="margin-top: 20px;">
+  <img 
+    src="https://komarev.com/ghpvc/?username=imalkaud&label=Profile%20views&color=ff66b2&style=flat-square" 
+    alt="imalkaud"  
+    style="
+      background-color: #ede6ea; 
+      padding: 6px 12px; 
+      border-radius: 10px; 
+      box-shadow: 0 0 10px #ff66b2cc;
+      max-width: 180px;
+      filter: drop-shadow(0 0 4px #f71184);
+    "
+  /> 
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imalkaud" alt="imalkaud" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-</p>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/imalka-udawaththa-35b8762a8" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/imalkawii.ud" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  
+  <!-- Gmail -->
+  <a href="mailto:udawaththaimalka@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://tubular-semifreddo-b426f2.netlify.app/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Portfolio-%23ff69b4.svg?&style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 

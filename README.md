@@ -52,7 +52,7 @@
   </a>
 
   <!-- Instagram -->
-  <a href="https://www.instagram.com/imalkawii.ud" target="_blank" title="Instagram">
+  <a href="https://www.instagram.com/imalkwii_ud" target="_blank" title="Instagram">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="35" height="35" style="margin-right:15px;" />
   </a>
 

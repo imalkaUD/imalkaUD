@@ -9,7 +9,7 @@
   <span style="color:#ff4da6;">Imalka Udawaththa</span>
 </h1>
 <h2 align="center">A passionate Frontend Developer & UI/UX Enthusiast from Sri Lanka</h2>
-
+</br>
 
 🎨 I’m currently diving deep into Frontend Development, UI/UX Design, and Design Systems
 

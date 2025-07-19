@@ -43,27 +43,29 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imalkaud" alt="imalkaud" /></a> </p>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/imalka-udawaththa-35b8762a8" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/imalka-udawaththa-35b8762a8" target="_blank" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35" style="margin-right:15px;" />
   </a>
 
   <!-- Instagram -->
-  <a href="https://www.instagram.com/imalkawii.ud" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.instagram.com/imalkawii.ud" target="_blank" title="Instagram">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="35" height="35" style="margin-right:15px;" />
   </a>
-  
+
   <!-- Gmail -->
-  <a href="mailto:udawaththaimalka@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:udawaththaimalka@gmail.com" target="_blank" title="Gmail">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="35" height="35" style="margin-right:15px;" />
   </a>
 
   <!-- Portfolio -->
-  <a href="https://tubular-semifreddo-b426f2.netlify.app/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Portfolio-%23ff69b4.svg?&style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  <a href="https://tubular-semifreddo-b426f2.netlify.app/" target="_blank" title="Portfolio">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" alt="Portfolio" width="35" height="35" />
   </a>
+</p>
+
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
